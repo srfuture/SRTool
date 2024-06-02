@@ -1,0 +1,10 @@
+C:\Users\xshim\source\repos\SRCalculator\bin\Debug\SRCalculator.exe.config
+C:\Users\xshim\source\repos\SRCalculator\bin\Debug\SRCalculator.exe
+C:\Users\xshim\source\repos\SRCalculator\bin\Debug\SRCalculator.pdb
+C:\Users\xshim\source\repos\SRCalculator\obj\Debug\SRCalculator.csproj.AssemblyReference.cache
+C:\Users\xshim\source\repos\SRCalculator\obj\Debug\SRCalculator.Properties.Resources.resources
+C:\Users\xshim\source\repos\SRCalculator\obj\Debug\SRCalculator.csproj.GenerateResource.cache
+C:\Users\xshim\source\repos\SRCalculator\obj\Debug\SRCalculator.csproj.CoreCompileInputs.cache
+C:\Users\xshim\source\repos\SRCalculator\obj\Debug\SRCalculator.exe
+C:\Users\xshim\source\repos\SRCalculator\obj\Debug\SRCalculator.pdb
+C:\Users\xshim\source\repos\SRCalculator\obj\Debug\SRCalculator.Form1.resources
